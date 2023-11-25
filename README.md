@@ -12,7 +12,7 @@ To create a cheap yet accurate thermocouple simulator to replace the expensive 8
 
 
 INSTALL PYTHON LIBRARIES ON RPI USING:
-Markup: -sudo pip3 install pillow
+Markup : -sudo pip3 install pillow
 -sudo pip3 install numpy
 -sudo apt-get install libopenjp2-7
 -sudo apt install libtiff
