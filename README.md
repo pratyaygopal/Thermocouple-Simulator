@@ -42,3 +42,10 @@ pasword : raspberry
 Now depending on the folder the script is in type in cd <Folder Path>.
 If you are not sure, use ls to list all the files in the current folder.
 Now run the script using python ./<Script_Name>
+
+HELPFUL LINKS:
+
+https://www.pyromation.com/Downloads/Data/emfk_c.pdf - K type thermocouple
+
+https://www.pyromation.com/Downloads/Data/emft_c.pdf - T type thermocouple
+
