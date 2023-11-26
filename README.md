@@ -6,30 +6,28 @@ Requirements:
 * PCF 8591 DAC/ADC IC
 * MCP4725 DAC IC (not used)
 
-
 Purpose:
 To create a cheap yet accurate thermocouple simulator to replace the expensive 8 channel ones which are currently used to calibrate the low temp cryo units.
 
-
 INSTALL PYTHON LIBRARIES ON RPI USING:
-`* sudo pip3 install pillow
+* sudo pip3 install pillow
 * sudo pip3 install numpy
 * sudo apt-get install libopenjp2-7
 * sudo apt install libtiff
 * sudo apt install libtiff5
-* sudo apt-get install libatlas-base-dev`
+* sudo apt-get install libatlas-base-dev
 
 FOR PYTHON 2:
-`* sudo apt-get update
+* sudo apt-get update
 * sudo apt-get install python-pip
 * sudo pip install RPi.GPIO
-* sudo pip install smbus`
+* sudo pip install smbus
 
 FOR PYTHON 3:
-`* sudo apt-get update
+* sudo apt-get update
 * sudo apt-get install python3-pip
 * sudo pip3 install RPi.GPIO
-* sudo pip3 install smbus`
+* sudo pip3 install smbus
 
 ACCESSING THE MACHINE: 
 
