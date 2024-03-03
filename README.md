@@ -1,5 +1,5 @@
 # Thermocouple-Simulator
-**Documentation for my project for my Internship**
+**Documentation for my project at my Internship**
 
 Requirements:
 * Raspberry Pi 3
