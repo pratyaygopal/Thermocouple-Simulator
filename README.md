@@ -1,6 +1,8 @@
 # Thermocouple-Simulator
 **Documentation for my project at my Internship**
 
+![RPI](https://raw.githubusercontent.com/pratyaygopal/Thermocouple-Simulator/main/RPI%20Circuit%20Diagram.png)
+
 Requirements:
 * Raspberry Pi 3
 * PCF 8591 DAC/ADC IC
